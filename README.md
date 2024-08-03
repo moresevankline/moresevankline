@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**About Me**
+- 🎓 A senior in Batangas State University - The National Engineering University of the Philippines
+- 📚 Taking Bachelor of Science in Information Technology Major in Business Analytics
+- 📊 An aspiring Data Scientist
+- 😄 He/Him
+
+
+
+

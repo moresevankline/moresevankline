@@ -25,7 +25,12 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,dart,java,javascript,kotlin,php,python,sql&theme=light)](https://skillicons.dev)
 
 **Markup/Styling**<br><br>
-[![My Skills](https://skillicons.dev/icons?i=css,html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html&theme=light)](https://skillicons.dev)&nbsp;
+<img src="https://github.com/moresevankline/moresevankline/blob/main/assets/xml-svgrepo-com.svg" alt="XML" title="XML" width="48">
+
+
+
+
 
 
 

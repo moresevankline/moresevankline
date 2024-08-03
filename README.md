@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 - 📊 An aspiring Data Scientist
 - 😄 He/Him
 
+**Programming**<br><br>
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dart,java,javascript,kotlin,php,python,sql&theme=light)](https://skillicons.dev)
+
+**Markup/Styling**<br><br>
+[![My Skills](https://skillicons.dev/icons?i=css,html&theme=light)](https://skillicons.dev)
+
+
 
 
 

@@ -52,6 +52,9 @@ Here are some ideas to get you started:
 **UI/UX Design**<br><br>
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 
+**Database**<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql, mariadb&theme=light)](https://skillicons.dev)
+
 **Microsoft Office Suite**<br><br>
 <img src="https://github.com/moresevankline/moresevankline/blob/main/assets/word-svgrepo-com.svg" alt="MS Word" title="MS Word" width="48">&nbsp;
 <img src="https://github.com/moresevankline/moresevankline/blob/main/assets/ms-excel-svgrepo-com.svg" alt="MS Excel" title="MS Excel" width="48">&nbsp;

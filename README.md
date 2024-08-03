@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 
 **Database**<br><br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=light)](https://skillicons.dev)
 
 **Microsoft Office Suite**<br><br>
 <img src="https://github.com/moresevankline/moresevankline/blob/main/assets/word-svgrepo-com.svg" alt="MS Word" title="MS Word" width="48">&nbsp;

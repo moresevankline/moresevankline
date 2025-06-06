@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 **Software Development**<br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,bootstrap&theme=light)](https://skillicons.dev)&nbsp;
 <img src="https://github.com/moresevankline/moresevankline/blob/main/assets/xampp-svgrepo-com.svg" alt="Xampp" title="Xampp" width="48">
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,nodejs,nginx,docker,django,redis&theme=light)](https://skillicons.dev)
 
 **Data Analytics**<br><br>
 <img src="https://github.com/moresevankline/moresevankline/blob/main/assets/orange-data-mining.svg" alt="Orange Data Mining" title="Orange Data Mining" width="48">&nbsp;

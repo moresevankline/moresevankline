@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moresevankline&theme=dark" alt="moresevankline" />
 <a href="https://github.com/moresevankline/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moresevankline&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Kline's github stats" /></a>
-<br>
+<br><br>
 <a href="https://github.com/moresevankline/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moresevankline&layout=compact&theme=vue&hide_border=true" /></a>
 
 ---

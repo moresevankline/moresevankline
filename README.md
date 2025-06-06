@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 - 🎓 A graduating student in Batangas State University - The National Engineering University of the Philippines
 - 📚 Taking Bachelor of Science in Information Technology Major in Business Analytics
+- 💻 Was a Backend Developer Intern in Batangas State University
 - 📊 An aspiring Data Scientist
 - 😄 He/Him
 
